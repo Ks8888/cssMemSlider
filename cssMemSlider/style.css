@@ -1,11 +1,11 @@
 body{
    background-color: black;
+   
 }
 .wrapper {
    padding: 7rem 0;
 	height: 26rem;
-	margin: 5rem auto;
-	position: relative;
+	margin: 0 auto;
 	width: 47rem;
    overflow: hidden;
 }
@@ -100,10 +100,9 @@ body{
    .wrapper {
       padding: 12rem 1rem;
       height: 14rem;
-      margin: 1rem auto;
-      position: relative;
+      margin: 0 auto;
       width: 23rem;
-      /* overflow: hidden; */
+      overflow: hidden;
   }
   .container{
    display: flex;
